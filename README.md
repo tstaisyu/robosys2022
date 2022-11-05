@@ -1,5 +1,8 @@
-# robosys2022
-ロボットシステム学の練習リポジトリ
+# plusコマンド
+
+![test](https://rithub.com/tstaisyu/robosys2022/actions/workflows/test.yml/badeg.svg)
+
+標準入力から読み込んだ数字を足す。
 
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます。
 * このパッケージは、３条項BSDライセンスの下ryuichiueda/emcl由来のコード( © 2022 Ryuichi Ueda)を利用しています。
